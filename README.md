@@ -1,6 +1,6 @@
 # Hey there👋🏻, Its me Suman_G! 👋 ![](https://komarev.com/ghpvc/?username=G-Suman)
 
-In along with learning Full-Stack Development, I'm exploring Web3 and Solana. I like to build cool things, code, and make contributions to the tech EcoSystem.
+In along with learning Full-Stack Development, I'm exploring Web3 too and I like to build cool things, code, and make contributions to the tech EcoSystem.
 But , not just another Coder , yet !🫡.
 
 ## 🛠️ Technologies & Tools
