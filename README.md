@@ -1,4 +1,4 @@
-# Hey there👋🏻, Its me Suman_G! 👋 ![](https://komarev.com/ghpvc/?username=siinghd)
+# Hey there👋🏻, Its me Suman_G! 👋 ![](https://komarev.com/ghpvc/?username=G-Suman)
 
 In along with learning Full-Stack Development, I'm exploring Web3 and Solana. I like to build things, code, and make contributions to the tech EcoSystem.
 But , not yet just another Coder🫡.
@@ -20,7 +20,7 @@ But , not yet just another Coder🫡.
 
 ## 📈 GitHub Stats
 
-![Harpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Suman&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Suman GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Suman&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 🔗 Links
 
