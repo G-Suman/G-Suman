@@ -1,7 +1,7 @@
 # Hey there👋🏻, Its me Suman_G! 👋 ![](https://komarev.com/ghpvc/?username=G-Suman)
 
-In along with learning Full-Stack Development, I'm exploring Web3 and Solana. I like to build things, code, and make contributions to the tech EcoSystem.
-But , not yet just another Coder🫡.
+In along with learning Full-Stack Development, I'm exploring Web3 and Solana. I like to build cool things, code, and make contributions to the tech EcoSystem.
+But , not just another Coder , yet !🫡.
 
 ## 🛠️ Technologies & Tools
 
@@ -14,7 +14,7 @@ But , not yet just another Coder🫡.
 
 ## 🌱 Current Learning Goals
 
--  Deep Dive into react , TypeScript and Postgress.
+-  Deep Dive into React , TypeScript and Postgress.
 - Explore Solana and Web-3.
 - Technical Writing and Contribution to Community.
 
