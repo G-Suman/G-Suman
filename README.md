@@ -15,7 +15,6 @@ But , not just another Coder , yet !🫡.
 ## 🌱 Current Learning Goals
 
 -  Deep Dive into React , TypeScript and Postgress.
-- Explore Solana and Web-3.
 - Technical Writing and Contribution to Community.
 
 ## 📈 GitHub Stats
